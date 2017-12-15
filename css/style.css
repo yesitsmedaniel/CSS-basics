@@ -1,0 +1,38 @@
+body {
+  font-size: 14px;
+}
+
+nav {
+  background color: yellow;
+  height: 100px;
+  margin-top: -10px;
+  position: fixed;
+  width: 100%;
+}
+
+section {
+  margin: 0 auto;
+  width: 60%;
+}
+
+h1 {
+  font-family: sans-serif;
+  font-size: 5em;
+}
+
+/*this stuff here are shared values*/
+.example, h3 {
+  padding-top: 30px;
+  text-align: center;
+}
+
+h3 {
+  font-size: 1.3em;
+}
+/** this controls ...the div elements **/
+.element {
+  background-color: green;
+  height: 100px;
+  margin: 10px 0;
+  width: 100%;
+}
